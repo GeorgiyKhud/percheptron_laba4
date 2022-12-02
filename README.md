@@ -21,7 +21,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 ## Цель работы
-Ознакомиться с основными операторами зыка Python на примере реализации линейной регрессии.
+Ознакомится с перцептроном.
 ## Задание 1
 ### В проекте Unity реализовать перцептрон
 - Скриншот реализации OR.
